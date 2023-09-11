@@ -4,7 +4,7 @@
         padding: 185px;
         font-size: 16px;
 	    margin: 10px;
-        width: -webkit-fill-available;
+        width: auto;
         height: -webkit-fill-available;
     }
     .top_btn{
