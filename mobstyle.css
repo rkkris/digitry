@@ -5,7 +5,7 @@
         font-size: 16px;
 	    margin: 10px;
         width: auto;
-        height: -webkit-fill-available;
+        height: auto;
     }
     .top_btn{
         opacity: 30%;
@@ -22,7 +22,7 @@
     }
     .container{
         display: flex;
-        width: -webkit-fill-available;
+        width: auto;
         position: fixed;
     }
     .navbar-toggle{
